@@ -1,4 +1,4 @@
-![image](https://github.com/dianovis/Kelompok5-Firewall/assets/116280719/19bfaf90-5e65-4828-81be-64b3e7d0d0ab)![image](https://github.com/dianovis/Kelompok5-Firewall/assets/116280719/c9ad6f38-5dd9-40c1-a862-697d6c23361d) # Kelompok5-Firewall
+# Kelompok5-Firewall
 ## Nama Anggota
     1.	Dian Novitasari     (21050974006)
     2.	Adib Bagus Subarkah (21050974039)
