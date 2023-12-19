@@ -13,7 +13,7 @@ https://pendidikan-ti.ft.unesa.ac.id/
 <p align="justify"> Implementasi firewall menggunakan Debian di Virtual Mesin ini diharapkan dimana nantinya dapat membantu agar masyarakat terhindar dari kejahatan cyber yang menyusup kedalam jaringan kemudian mengambil data – data rahasia dan melumpuhkan sistem jaringan komputer. Pada implementasi kali ini memerlukan Firewall yang menggunakan debian, Firewall sendiri adalah sebuah sistem atau perangkat yang digunakan untuk mengizinkan lalu lintas jaringan yang dianggap aman untuk melaluinya dan mencegah lalu lintas jaringan yang dianggap tidak aman. Firewall umumnya diimplementasikan dalam sebuah mesin terdedikasi, yang berjalan pada pintu gerbang (gateway) antara jaringan lokal dan jaringan lainnya. Lalu juga membutuhkan Virtual Mesin dan PC Windows XP yangsemuanya di Install di dalam Virtual Mesin. </p>
 
 ## Tujuan dan Manfaat
-<p align="justify"> Untuk mengetahui Bagaimana mengimplementasikan keamanan jaringan firewall menggunakan Debian di Virtual Mesin untuk melindungi jaringan dari serangan dan menjaga ketertiban komputer </p>
+<p align="justify"> Untuk mengetahui Bagaimana mengimplementasikan keamanan jaringan firewall menggunakan Debian di Virtual Mesin untuk melindungi jaringan dari serangan dan menjaga ketertiban komputer. </p>
 
 
 ## Langkah-langkah instal Debian pada VirtualBox
